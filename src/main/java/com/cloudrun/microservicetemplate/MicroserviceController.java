@@ -41,6 +41,6 @@ public class MicroserviceController {
     // https://cloud.google.com/run/docs/logging#correlate-logs
     logger.info("Structured logging example.");
 //    test GCP
-    return "Hello World!";
+    return "Hello World2!";
   }
 }
